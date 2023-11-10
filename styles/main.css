@@ -1,0 +1,35 @@
+.product1{
+    display: flex;   
+}
+
+.bag{
+    padding: 1%;
+}
+
+.price{
+    color: #F2994A;
+}
+
+.product2{
+    display: flex;
+}
+
+.button1{
+    display: flex;
+    font-size: larger;
+}
+
+.button2{
+    display: flex;
+    font-size: larger;
+}
+    
+.button3{
+    display: flex;
+    font-size: larger;
+}
+
+.button4{
+    display: flex;
+    font-size: larger;
+}
